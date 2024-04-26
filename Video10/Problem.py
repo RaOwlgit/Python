@@ -1,0 +1,6 @@
+num1 = input("Enter any mumber to perform mathamatical operation:")
+num2 = input("Enter any mumber to perform mathamatical operation:")
+print("The sum of given number is", int(num1)+int(num2))
+print("The subtraction of given number is", int(num1)-int(num2))
+print("The multiplication of given number is", int(num1)*int(num2))
+print("The division of given number is", int(num1)/int(num2))
